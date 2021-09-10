@@ -1,0 +1,10 @@
+postgres://
+wgsomwcknhpvks
+:
+51e4e8d222ff6d52c7eb14f109a2625e447f5196454e8f39a3f0f23313bfe1ec ==> SENHA
+@
+ec2-52-7-159-155.compute-1.amazonaws.com ==> HOST
+:
+5432
+/
+dfgakee32k96l4 ==> USERNAME
